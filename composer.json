@@ -1,5 +1,5 @@
 {
-  "name": "qcod/laravel-imageup",
+  "name": "ghebo/laravel-imageup",
   "description": "Auto Image upload, resize and crop for Laravel eloquent model using Intervention image",
   "homepage": "https://github.com/qcod/laravel-imageup",
   "type": "library",
@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "php": "^7.3|^8.0",
+    "php": "^8.0",
     "laravel/framework": "~5.4.0|~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0|^8.0",
     "intervention/image": "^2.4"
   },
